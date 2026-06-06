@@ -5,10 +5,10 @@ To write a python program to find the rank of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step 1: Import the required libraries.
-### Step 2: Set the OpenBLAS thread limit.
+### Step 1: Start the program and import the required libraries and define the matrix
+### Step 2: Set the OpenBLAS thread limit and Compute the rank of matrix A using the matrix rank function.
 ### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
-### Step 4: End the program
+### Step 4: Display the value of rank and stop the program.
 
 
 ## Program:
